@@ -15,7 +15,7 @@ excerpt: "See my writeups on tools"
 intro: 
   - excerpt: 'This is a page to hopefully help with some of the tools of the trade."`'
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - image_path: assets/images/samurai-4836642_1920.jpg
     alt: "placeholder image 1"
     title: "Placeholder 1"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
